@@ -1,0 +1,29 @@
+/* Super slow:
+* {
+    
+}
+*/
+
+body {
+    font-family: cursive !important;
+}
+
+#product-overview {
+    background: #ff1b6e;
+}
+
+.section-title {
+    color: #2ddf5c;
+}
+
+h1 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+/* h1 {
+    color: yellow;
+    font-family: cursive;
+} */
