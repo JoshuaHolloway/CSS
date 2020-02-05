@@ -1,50 +1,24 @@
 # CSS
 
-* 0 - Section 2: Basics
-    * 00: Adding CSS to the project with inline styles
-    * 01: Style-tag and creating a .css file
-    * 02: Applying additional styles and importing Google fonts
-    * 03: Selectors
-    * 04: Cascading and Specifying
-    * 05: Iheritance
-    * 06: Combinators
+* 00 - Section 2: Basics
+    * 000: Adding CSS to the project with inline styles
+    * 001: Style-tag and creating a .css file
+    * 002: Applying additional styles and importing Google fonts
+    * 003: Selectors
+    * 004: Cascading and Specifying
+    * 005: Iheritance
+    * 006: Combinators
+    * 007: Summarizing Properties and Selectors
 
-* 1 - Section : 
-    * 00
-        * 
-    * 01
-        * 
-    * 02
-        * 
-    * 03
-        * 
-    * 04
-        * 
-    * 05
-        * 
-    * 06
-        * 
-    * 07
-        * 
-    * 08
-        * 
-    * 09
-        * 
-    * 10
-        * 
-    * 11
-        * 
-    * 12
-        * 
+* 01 - Section 3: Diving Deeper into CSS
+    * 000: Box Model
+    * 001: Shorthand Properties
+    * 002: Height and Width Properties
+    * 003: Box Sizing
+    * 004: Adding Header to Project
+    * 005: Display Properties
 
-* 2 - Section : 
-    * 00
-        * 
-    * 01
-        * 
-    * 02
-        * 
+    ***************************************
+    * 006: 
+    ***************************************
 
-* 3 - Section : 
-    * 00
-        * 

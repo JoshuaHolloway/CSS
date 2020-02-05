@@ -1,0 +1,32 @@
+html {
+    height: 100%;
+}
+
+main {
+    height: 100%;
+}
+
+body {
+    font-family: cursive;
+    margin: 0;
+
+    height: 100%;
+}
+
+#product-overview {
+    background: #ff1b6e;
+    width: 50%;
+
+    /* Only includes margin of h1-element, not of parent container (like widht) */
+    height: 100%;
+    /* 100% refers to AVAILABLE height of parent */
+}
+
+.section-title {
+    color: #2ddf5c;
+}
+
+#product-overview h1 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
