@@ -17,11 +17,14 @@
     * 003: Box Sizing
     * 004: Adding Header to Project
     * 005: Display Properties
-
-    ***************************************
     * 006: Applying the display property and styling the nav-bar
     * 007: Understanding the unexpected 'inline-block' behavior
     * 008: Working with 'text-decoration' and 'vertical-align'
     * 009: Styling anchor tags
+
+    ***************************************
+    * 310: Adding pseudo classes
+    * 311: Pseudo-classes and Pseudo-elements
+    * 312: Grouping Rules
     ***************************************
 
