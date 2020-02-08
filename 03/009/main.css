@@ -50,6 +50,11 @@ body {
 
 .main-nav__item {
     display: inline-block;
+
+    
+    /* [009] */
+    margin: 0 16px;
+    text-decoration: none;
 }
 
 /* [006] */
@@ -131,3 +136,25 @@ body {
     list-style: none;
 }
 
+
+/* [008] */
+.main-header__brand {
+    color: #0e4f1f;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.main-nav__items {
+    vertical-align: middle;
+}
+
+.main-nav {
+    vertical-align: middle;
+}
+
+/* 009 */
+.main-nav__item a {
+    text-decoration: none;
+    color: #0e4f1f;
+}
