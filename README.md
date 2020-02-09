@@ -21,9 +21,10 @@
     * 007: Understanding the unexpected 'inline-block' behavior
     * 008: Working with 'text-decoration' and 'vertical-align'
     * 009: Styling anchor tags
+    * 310: Adding pseudo classes
 
     ***************************************
-    * 310: Adding pseudo classes
+    
     * 311: Pseudo-classes and Pseudo-elements
     * 312: Grouping Rules
     ***************************************
