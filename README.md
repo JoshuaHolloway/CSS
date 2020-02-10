@@ -25,3 +25,6 @@
     * 311: Pseudo-classes and Pseudo-elements
     * 312: Grouping Rules
 
+    **********************************************
+    * 313: Working with "font-weight" and "border"
+    **********************************************
