@@ -24,7 +24,13 @@
     * 310: Adding pseudo classes
     * 311: Pseudo-classes and Pseudo-elements
     * 312: Grouping Rules
+    * 313: Working with "font-weight" and "border"
 
     **********************************************
-    * 313: Working with "font-weight" and "border"
+    * 314: Adding and Styling a CTA-button (have not done yet)
+    **********************************************
+
+* 04 - Section 4: More on Selectors and CSS Features
+    **********************************************
+    * 400: Using multiple CSS classes and combined selectors
     **********************************************
