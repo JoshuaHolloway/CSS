@@ -9,6 +9,7 @@
     /* grid-template-columns: 200px 5rem 20% auto; */
     /* auto is same as 1fr */
     
+    /* [1403] */
     /* repeat is same as just writing it out explicitly */
     /* grid-template-columns: 25% 25% 25% 25%; */
     grid-template-columns: repeat(4, 25%);
@@ -28,7 +29,15 @@
 .el3 {
     background: rgba(0, 128, 0, 0.5);
     grid-column-start: 3;
-    grid-column-end: 5;
+    
+    
+    /* [1404] */
+    /* Start at line 3 and span two cells */
+    /* grid-column-end: 5; */
+    grid-column-end: span 2;
+
+
+
     grid-row-start: 1;
     grid-row-end: 3;
 }
