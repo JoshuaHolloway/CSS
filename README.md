@@ -36,6 +36,12 @@
     **********************************************
 
 * 14 - Section 14: CSS Grid
-    ***************************************
     * 1400: Turning a container into a grid
-    ***************************************
+    * 1401: Defining columns and rows
+    * 1402: Positioning child elements in a grid
+    * 1403: Using 'element-sizing', 'repeat', and 'minmax'
+
+    ********************************************
+    * 1404: Advanced element positioning
+        * NOT DONE!
+    ********************************************

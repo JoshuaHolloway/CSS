@@ -1,0 +1,29 @@
+html {
+  border: dashed 5px black;
+  background: green;
+}
+body {
+  border: dashed 5px white;
+  margin: 50px;
+  background: red;
+  /* padding: 5px; */
+}
+.container {
+  border: dashed 5px yellow;
+  margin: 50px;
+  background: deepskyblue;
+  height: 200vh;
+}
+.one {
+  background: deeppink;
+  width: 100px;
+  height: 90px;
+  /* position: fixed; */
+  top: 0;
+  /* left: 0; */
+}
+.two {
+  background: darkorchid;
+  width: 100px;
+  height: 100px;
+}

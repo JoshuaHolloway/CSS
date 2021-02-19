@@ -1,0 +1,32 @@
+* { margin: 0; padding: 0; }
+div { 
+  width: 500px;
+}
+p {
+  margin-left: auto;
+  margin-right: 100px;
+  width: 100px;
+}
+#tape-measure {
+  height: 10px;
+  width: 500px;
+  background: deeppink;
+}
+.mark {
+  height: 50px;
+  width: 2px;
+  background: black;
+  display: inline-block;
+}
+.mark-1 { margin-left: 100px; }
+.mark-2 { margin-left: 100px; }
+.mark-3 { margin-left: 100px; }
+.mark-4 { margin-left: 100px; }
+.mark-5 { margin-left: 100px; }
+
+#marks-A { background:deepskyblue; }
+#marks-B { 
+  background: darkorchid;
+  position: relative;
+}
+#mark { position: absolute; }

@@ -1,0 +1,176 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: cursive;
+    margin: 0;
+}
+
+#product-overview {
+    background: #ff1b6e;
+    width: 100%;
+    height: 500px;  
+    padding: 10px;
+}* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: cursive;
+    margin: 0;
+}
+
+#product-overview {
+    background: #ff1b6e;
+    width: 100%;
+    height: 500px;  
+    padding: 10px;
+}
+
+.section-title {
+    color: #2ddf5c;
+}
+
+#product-overview h1 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.main-header {
+    background: #2ddf5c;
+    width: 100%;
+    padding: 8px 16px;
+}
+
+.main-nav__items {
+    margin: 0;
+    padding: 0;
+}
+
+.main-nav__item {
+    display: inline-block;
+
+    
+    /* [009] */
+    margin: 0 16px;
+    text-decoration: none;
+}
+
+/* [006] */
+.main-header>div {
+    display: inline-block;
+}
+
+.main-nav {
+    display: inline-block;
+    text-align: right;
+
+    /* [007]: See the comments in the HTML */
+    /* width: calc(100% - 49px); */
+    width: calc(100% - 74px);
+
+    /* [008] */
+    vertical-align: middle;
+}
+
+.main-namv__items {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    /* [008] */
+    vertical-align: middle;
+}
+
+/* [008] */
+.main-header__brand {
+    color: #0e4f1f;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+
+.section-title {
+    color: #2ddf5c;
+}
+
+#product-overview h1 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.main-header {
+    background: #2ddf5c;
+    width: 100%;
+    padding: 8px 16px;
+}
+
+.main-nav__items {
+    margin: 0;
+    padding: 0;
+}
+
+.main-nav__item {
+    display: inline-block;
+}
+
+/* [006] */
+.main-header>div {
+    display: inline-block;
+}
+
+.main-nav {
+    display: inline-block;
+    text-align: right;
+
+    /* [007]: See the comments in the HTML */
+    /* width: calc(100% - 49px); */
+    width: calc(100% - 74px);
+}
+
+.main-namv__items {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+/* [008] */
+.main-header__brand {
+    color: #0e4f1f;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.main-nav__items {
+    vertical-align: middle;
+}
+
+.main-nav {
+    vertical-align: middle;
+}
+
+/* 009 */
+.main-nav__item a {
+    text-decoration: none;
+    color: #0e4f1f;
+
+    /* [313] */
+    font-weight: bold;
+    padding: 3px 0;
+}
+
+/* 310 */
+.main-nav__item a:hover {
+    color: white;
+
+    /* [313] */
+    border-bottom: 5px solid white;
+}
+
+.main-nav__item a:active {
+    color: white;
+}
