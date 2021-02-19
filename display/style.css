@@ -13,17 +13,48 @@ body {
   margin: 50px;
   background: deepskyblue;
   height: 200vh;
+
+  position: relative;
 }
+
+.box {
+  display: grid;
+  place-items: center;
+  font-size: 3rem;
+  font-weight: 900;
+  color: white;
+  font-family: monospace;
+  width: 100px;
+  height: 100px;
+}
+
 .one {
   background: deeppink;
   width: 100px;
   height: 90px;
-  /* position: fixed; */
+  position: fixed;
   top: 0;
   /* left: 0; */
+  /* right: 0; */
 }
 .two {
   background: darkorchid;
-  width: 100px;
-  height: 100px;
+  position: static; /* default */
+}
+.three {
+  background: goldenrod;
+  position: absolute;
+  right: 0;
+}
+.four {
+  background: palegreen;
+  position: static; /* default */
+}
+
+#p-body {
+  /* border: solid darkturquoise 4px; */
+  font-size: 2rem;
+  color: white;
+  margin: 0;
+  position: absolute;
 }
